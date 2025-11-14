@@ -1,0 +1,33 @@
+<resources>
+    <string name="app_name">Sahaj</string>
+    <string name="next">Next</string>
+    <string name="brand">Brand</string>
+    <string name="model">Model</string>
+    <string name="price">Price</string>
+    <string name="order_amount">Order Amount</string>
+    <string name="loan_provider">Loan service provided by Sahaj</string>
+    <string name="down_payment">Down Payment</string>
+    <string name="monthly_payment">Monthly Payment</string>
+    <string name="demo_amount">TK 0</string>
+    <string name="demo_term">Pay in </string>
+    <string name="dp_1">15%</string>
+    <string name="dp_2">20%</string>
+    <string name="dp_3">30%</string>
+    <string name="dp_4">50%</string>
+    <string name="terms_1">4 Terms</string>
+    <string name="terms_2">6 Terms</string>
+    <string name="terms_3">9 Terms</string>
+    <string name="confirm">Confirm</string>
+    <string name="plan_header">Installment Plan</string>
+    <string name="select_model">Select Model</string>
+    <string name="confirmation_order">Confirm Information</string>
+    <string name="payment_term">Payment Term</string>
+    <string name="by_month">By Month</string>
+    <string name="repayment_option">Repayment Option</string>
+    <string name="total_price">Total Price</string>
+    <string name="total_outstanding">Total Outstanding</string>
+    <string name="repayment_plan">Repayment Plan</string>
+    <string name="demo_total_terms">Total 0 terms</string>
+    <string name="cancel">Cancel</string>
+    <string name="dummy_date">12.2.12</string>
+</resources>
